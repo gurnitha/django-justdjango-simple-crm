@@ -143,7 +143,15 @@
         new file:   templates/leads/lead_update.html
 
 
+#### 15. Lead delete view and Url names
 
+        modified:   README.md
+        modified:   apps/leads/urls.py
+        modified:   apps/leads/views.py
+        modified:   templates/leads/lead_create.html
+        modified:   templates/leads/lead_detail.html
+        modified:   templates/leads/lead_list.html
+        modified:   templates/leads/lead_update.html
 
 
 

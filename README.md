@@ -101,6 +101,11 @@
         modified:   templates/second_page.html
 
 
+#### 10. Url namespace for leads app
+
+        modified:   README.md
+        new file:   apps/leads/urls.py
+        modified:   config/urls.py
 
 
 

@@ -154,8 +154,16 @@
         modified:   templates/leads/lead_update.html
 
 
+#### 16. Extended templates
 
-
+        modified:   README.md
+        new file:   templates/base.html
+        new file:   templates/leads/base.html
+        modified:   templates/leads/lead_create.html
+        modified:   templates/leads/lead_detail.html
+        modified:   templates/leads/lead_list.html
+        modified:   templates/leads/lead_update.html
+        new file:   templates/scripts.html
 
 
 

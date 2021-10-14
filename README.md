@@ -66,7 +66,10 @@
         modified:   config/settings.py
 
 
-
+#### 5. Create string method 
+       
+       modified:   README.md
+       modified:   apps/leads/models.py
 
 
 

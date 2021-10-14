@@ -85,8 +85,13 @@
         modified:   config/urls.py
 
 
+#### 8. Templates and rendering them in the response
 
-
+        modified:   README.md
+        modified:   apps/leads/views.py
+        modified:   config/settings.py
+        new file:   templates/leads/home_page.html
+        new file:   templates/second_page.html
 
 
 

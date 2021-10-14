@@ -195,7 +195,15 @@
         new file:   templates/leads/lead_delete.html
 
 
+#### 19. Static files
 
+        modified:   README.md
+        modified:   config/settings.py
+        modified:   config/urls.py
+        new file:   static/css/styles.css
+        new file:   static/js/min.js
+        modified:   templates/base.html
+        modified:   templates/scripts.html
 
 
 

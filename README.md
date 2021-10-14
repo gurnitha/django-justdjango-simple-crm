@@ -18,3 +18,31 @@
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+
+
+#### 2. The project structures
+
+        E:.
+        │   .gitignore
+        │   manage.py
+        │   README.md
+        │
+        ├───apps
+        │   └───leads
+        │       │   admin.py
+        │       │   apps.py
+        │       │   models.py
+        │       │   tests.py
+        │       │   views.py
+        │       │   __init__.py
+        │       │
+        │       └───migrations
+        │               __init__.py
+        │
+        └───config
+                .env
+                asgi.py
+                settings.py
+                urls.py
+                wsgi.py
+                __init__.py

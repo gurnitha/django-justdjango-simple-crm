@@ -78,6 +78,11 @@
         modified:   apps/leads/admin.py
 
 
+#### 7. Hellow world view 
+
+        modified:   README.md
+        modified:   apps/leads/views.py
+        modified:   config/urls.py
 
 
 

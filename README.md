@@ -186,9 +186,13 @@
         new file:   templates/navbar.html
 
 
+#### 18. Class based views
 
-
-
+        modified:   README.md
+        modified:   apps/leads/urls.py
+        modified:   apps/leads/views.py
+        modified:   config/urls.py
+        new file:   templates/leads/lead_delete.html
 
 
 

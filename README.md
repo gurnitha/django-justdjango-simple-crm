@@ -126,8 +126,13 @@
         new file:   templates/leads/lead_create.html
 
 
+#### 13. Lead model form
 
-
+        modified:   README.md
+        modified:   apps/leads/forms.py
+        modified:   apps/leads/views.py
+        modified:   templates/leads/lead_detail.html
+        modified:   templates/leads/lead_list.html
 
 
 

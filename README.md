@@ -56,6 +56,15 @@
         modified:   apps/leads/models.py
 
 
+#### 4. Create CustomUser and Agent models
+
+        modified:   README.md
+        modified:   apps/leads/admin.py
+        modified:   apps/leads/migrations/0001_initial.py
+        new file:   apps/leads/migrations/0002_rename_user_agent_customuser.py
+        modified:   apps/leads/models.py
+        modified:   config/settings.py
+
 
 
 

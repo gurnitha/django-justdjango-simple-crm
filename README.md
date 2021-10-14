@@ -104,12 +104,17 @@
 #### 10. Url namespace for leads app
 
         modified:   README.md
-        new file:   apps/leads/urls.py
+        new file:   apps/leads/urls
         modified:   config/urls.py
 
 
-
-
+#### 11. Lead list and detail views
+       
+        modified:   README.md
+        modified:   apps/leads/urls.py
+        modified:   apps/leads/views.py
+        new file:   templates/leads/lead_detail.html
+        new file:   templates/leads/lead_list.html
 
 
 

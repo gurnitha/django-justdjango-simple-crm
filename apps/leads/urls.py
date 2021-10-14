@@ -4,10 +4,14 @@
 from django.urls import path
 
 # Locals
-from apps.leads.views import home_page
+from apps.leads.views import lead_list, lead_detail
 
 app_name = "leads"
 
 urlpatterns = [
-    path('all/', home_page)
+    path('', lead_list),
+    path('<pk>/', lead_detail),
 ]
+
+
+    

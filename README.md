@@ -206,6 +206,19 @@
         modified:   templates/scripts.html
 
 
+#### 20. Sending email
+
+        modified:   README.md
+        modified:   apps/leads/views.py
+        modified:   config/settings.py
+
+        NOTE:
+
+        To see the result:
+
+        1. Create a new lead
+        2. See/check the console/terminal you will
+           find there the result. 
 
 
 

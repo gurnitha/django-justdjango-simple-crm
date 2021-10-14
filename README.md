@@ -166,11 +166,24 @@
         new file:   templates/scripts.html
 
 
+#### 17. Added tailwindcss
 
+        > Install: pip install crispy-tailwind
+        > Install: pip install crispy-tailwind
+        > Install: pip install django-tailwind
 
-
-
-
+        modified:   README.md
+        modified:   apps/leads/views.py
+        modified:   config/settings.py
+        modified:   config/urls.py
+        modified:   templates/base.html
+        new file:   templates/landing.html
+        deleted:    templates/leads/base.html
+        modified:   templates/leads/lead_create.html
+        modified:   templates/leads/lead_detail.html
+        modified:   templates/leads/lead_list.html
+        modified:   templates/leads/lead_update.html
+        new file:   templates/navbar.html
 
 
 

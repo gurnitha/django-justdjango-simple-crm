@@ -45,6 +45,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    # Third party apps
+    'crispy_forms',
+    "crispy_tailwind",
+    'tailwind',
+    # 'theme',
+
     # Locals
     'apps.leads.apps.LeadsConfig',
 ]
@@ -144,5 +150,8 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-
+# new -------------------------------
 AUTH_USER_MODEL = 'leads.CustomUser'
+
+CRISPY_ALLOWED_TEMPLATE_PACKS = "tailwind"
+CRISPY_TEMPLATE_PACK = 'tailwind'

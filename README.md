@@ -135,6 +135,12 @@
         modified:   templates/leads/lead_list.html
 
 
+#### 14. Lead update view
+
+        modified:   README.md
+        modified:   apps/leads/urls.py
+        modified:   apps/leads/views.py
+        new file:   templates/leads/lead_update.html
 
 
 

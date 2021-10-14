@@ -94,8 +94,11 @@
         new file:   templates/second_page.html
 
 
+#### 9. Context and template syntax
 
-
+        modified:   README.md
+        modified:   apps/leads/views.py
+        modified:   templates/second_page.html
 
 
 

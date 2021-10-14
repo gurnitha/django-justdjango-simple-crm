@@ -72,6 +72,12 @@
        modified:   apps/leads/models.py
 
 
+#### 6. Register models to admin
+
+        modified:   README.md
+        modified:   apps/leads/admin.py
+
+
 
 
 

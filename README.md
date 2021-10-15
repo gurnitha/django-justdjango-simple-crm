@@ -1,5 +1,6 @@
 ### BUILDING SIMPLE CRM USING DJANGO V3.2 BASED ON JUSTDJANGO TUTORIALS ON YOUTUBE
 
+Gihub: https://github.com/gurnitha/django-justdjango-simple-crm
 
 #### 1. Create project, app and mysql database
 
@@ -220,6 +221,11 @@
         2. See/check the console/terminal you will
            find there the result. 
 
+
+#### 21. Gihub repository
+
+        modified:   README.md
+        Gihub: https://github.com/gurnitha/django-justdjango-simple-crm
 
 
 

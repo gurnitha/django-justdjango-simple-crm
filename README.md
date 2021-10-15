@@ -236,6 +236,13 @@ Gihub: https://github.com/gurnitha/django-justdjango-simple-crm
         <p>Check out modified codes on<a href="https://github.com/gurnitha/django-justdjango-simple-crm/commit/7eca4705ebbffb21e18d56e6a597457d84cf3936" target="_blank">Github</a>.</p>
 
 
+#### 23. Gihub repository - testing to add link (modified 22)
+
+        modified:   README.md
+
+<p>Check out modified codes on<a href="https://github.com/gurnitha/django-justdjango-simple-crm/commit/7eca4705ebbffb21e18d56e6a597457d84cf3936" target="_blank">Github</a>.</p>
+
+
 
 
 
